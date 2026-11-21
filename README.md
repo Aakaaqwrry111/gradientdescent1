@@ -2,9 +2,11 @@
 
 
 > **Project status:** Initial setup. The repository is ready for the first implementation and experiments.
+>
+>
+>
 > Gradient descent teaches us one thing:
 No matter where you start even from a random, far-off point as long as you keep moving in the right direction, you’ll eventually reach the minimum.
-
 Life works the same way:
 No matter how far you feel from your goals, if you consistently take the right steps, you’ll eventually reach the place you’re meant to be.
 
