@@ -12,7 +12,7 @@ No matter how far you feel from your goals, if you consistently take the right s
 
 ## About
 
-This project documents  first attempt to look inside the "black box" and understand what happens behind the scenes when a model learns. The goal is to build gradient descent from the fundamentals rather than treating it as a one-line call to a machine-learning library.
+This project documents my first attempt to look inside the "black box" and understand what happens behind the scenes when a model learns. The goal is to build gradient descent from the fundamentals rather than treating it as a one-line call to a machine-learning library.
 
 This README provides a useful starting point for a project that can eventually include:
 
